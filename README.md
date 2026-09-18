@@ -13,6 +13,12 @@ I don't build tech for the status quo. I build custom middleware, persistent dat
 
 *Bridging bare metal, backend code, and raw creative engineering.*
 
+### **Field-Tested & Bare-Metal Qualifications**
+* **Telecom & Fiber Infrastructure:** Lead field technician experience managing outside plant fiber splicing, PBX systems, and large-scale infrastructure rollouts.
+* **Systems & Network Administration:** Enterprise LAN/domain systems, domain controllers, firewall deployment, and mobile device management.
+* **Systems Architecture:** Building containerized microservices (Docker), Linux hardening, and RESTful API integrations with PostgreSQL & vector stores.
+* **Multimodal Engineering:** End-to-end generative media optimization, custom node architecture, and temporal steganographic bit-baking.
+
 ### **Connect & Support**
 * **Suno:** [Original AI Audio Tracks & Discography](https://suno.com/@mcgeheejer)
 * **YouTube:** [Music Videos, Audio Tech & Generative Tutorials](https://www.youtube.com/mcgeheejer)
